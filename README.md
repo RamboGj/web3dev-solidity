@@ -1,7 +1,5 @@
 # Host: https://web3dev-frontend-solidity.vercel.app/
 
 ### Technologies
-- ReactJS
+- Hardhat
 - Solidity
-- Web3
-- Blockchain development
