@@ -5,7 +5,6 @@ const main = async () => {
     })
     
     await waveContract.deployed();
-    waveContract.wave("Limite de gás", { gasLimit: 300000 })
   
     console.log("WavePortal address: ", waveContract.address);
   };
